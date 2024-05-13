@@ -17,9 +17,9 @@ Fraction Calculator is a Python project designed to perform mathematical calcula
 
 
 ## Screenshots
-![Preview 1](https://github.com/RaghavRD/Fraction-Calculator/assets/108291726/18e2dce9-fd04-47ee-a4a2-818317d4e2eb)\
-![Preview 2](https://github.com/RaghavRD/Fraction-Calculator/assets/108291726/50affd01-7631-497d-8627-2a4e4942c485)\
-![Preview 3](https://github.com/RaghavRD/Fraction-Calculator/assets/108291726/1cbad2c3-36b5-481c-b9d6-29cfabda9fc1)\
+![Preview 1](https://github.com/RaghavRD/Fraction-Calculator/assets/108291726/99fb5001-d4c8-4685-befd-fb900586c1ac)\
+![Preview 2](https://github.com/RaghavRD/Fraction-Calculator/assets/108291726/77466f9a-11a8-426b-8fa3-66acd57ab0a4)\
+![Preview 3](https://github.com/RaghavRD/Fraction-Calculator/assets/108291726/fcf778ad-8fc1-4747-8a57-1c135c914ac4)\
 
 
 ## Installation
