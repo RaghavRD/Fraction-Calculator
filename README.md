@@ -1,6 +1,6 @@
 
 
-## Fraction Calculator
+# Fraction Calculator
 
 Fraction Calculator is a Python project designed to perform mathematical calculations on fractions. It allows users to perform addition, subtraction, multiplication, and division operations on fractions, providing results in fractional form. The project utilizes magic methods in Python for enhanced functionality and ease of use.
 
